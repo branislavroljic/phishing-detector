@@ -62,7 +62,7 @@ This project is a comprehensive phishing email detection software designed to id
     Clone this repository:
 
     git clone https://github.com/branislavroljic/nn-phish-detector.git
-    cd nn-phish-detector
+    cd phishing-detector
 
 ## Usage
 
